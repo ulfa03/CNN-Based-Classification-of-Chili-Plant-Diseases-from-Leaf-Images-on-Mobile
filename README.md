@@ -24,7 +24,7 @@
 <img width="1489" height="490" alt="image" src="https://github.com/user-attachments/assets/4b52f452-0801-46ac-82a6-ef8308462007" />
 <img width="922" height="790" alt="image" src="https://github.com/user-attachments/assets/b2902beb-85db-40d9-93d1-177c54475534" />
 
-##📌Kesimpulan
+## 📌Kesimpulan
 - Learing rate : 1e-4
 - Batch Size : 32
 - Durasi : 08:37
@@ -33,5 +33,5 @@
 - Train Los : 0.0243%
 - Val Los : 0.0405% 
 
-##📌Poster Project
-<img width="631" height="894" alt="image" src="https://github.com/user-attachments/assets/11affeab-cc2a-4d1d-a58d-dadf362ee983" />
+## 📌Poster Project
+<img width="1414" height="2000" alt="Poster PA" src="https://github.com/user-attachments/assets/8c5fb023-de38-4f2b-829f-ce3e12c78b3c" />
